@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ZhangLei
 - 👀 I’m interested in programming in c++ rust java golang python javascript
-
+- 🌐 Specializing in **Distributed Storage & Databases** (Raft/Paxos, partitioning, LSM/B+ trees, replication, chaos testing)
 <!---
 SWJTU-ZhangLei/SWJTU-ZhangLei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
